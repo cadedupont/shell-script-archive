@@ -8,7 +8,7 @@ You can either download the scripts as a ZIP or clone the repository by running 
 foo@bar:~$ git clone https://github.com/cadedupont/shell-script-archive.git
 ```
 
-#### Add Scripts to PATH
+### Add Scripts to PATH
 If you want to be able to execute the scripts from any directory on your machine without specifying the exact filepath, you'll need to add the directory to your machine's PATH variable.
 
 This can be done in your `.bashrc` or `.zshrc` file (depending on which shell your system uses by default- on MacOS, it will likely be ZSH) with the following line:
@@ -98,7 +98,7 @@ Host turing
   User your_username
 ```
 
-#### Using `cron`
+### Using `cron`
 I have this script automated to run every day at 00:00 with `cron`. You can edit your current `cron` tasks by running the following command:
 
 ```bash
