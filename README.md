@@ -1,6 +1,9 @@
 # Shell Script Archive
 This is an archive of Bash scripts for personal use. A fair deal of configuration will need to be done on your part if you wish to use these scripts yourself.
 
+> [!IMPORTANT]  
+> Access to UARK's server, Turing, now requires access via VPN, meaning you'll need to be connected to the VPN before running the `push.sh` script. Read more [here](https://its.uark.edu/network-access/vpn/index.php).
+
 ## Download the Project
 You can either download the scripts as a ZIP or clone the repository by running the following command in your machine's terminal:
 
